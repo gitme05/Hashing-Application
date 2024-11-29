@@ -1,1 +1,17 @@
-# Hashing-Application
+# Library Book Tracker
+
+The **Library Book Tracker** is a simple console-based Java application that uses a hash table to store and manage library books by their unique IDs.
+
+## Features
+
+1. **Add Books**: Store a book's ID and title in the library.
+2. **Retrieve Books**: Look up a book title by its ID.
+3. **Display All Books**: View all books stored in the library.
+
+## Why This Application?
+
+We developed this application to demonstrate how hashing can efficiently store and retrieve data. This application helps in managing library books, providing a fast and reliable solution for small libraries.
+
+## How Does It Contribute?
+
+This project enhances my understanding of hash tables and coding skills while offering a simple solution for small libraries to efficiently manage their books.
