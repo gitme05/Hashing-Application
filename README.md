@@ -2,11 +2,9 @@
 
 The **Library Book Tracker** is a simple console-based Java application that uses a hash table to store and manage library books by their unique IDs.
 
-## Features
+## What It Can Do
 
-1. **Add Books**: Store a book's ID and title in the library.
-2. **Retrieve Books**: Look up a book title by its ID.
-3. **Display All Books**: View all books stored in the library.
+This application allows you to add books to the library, retrieve a book by its ID, and display all the books currently stored in the library.
 
 ## Why This Application?
 
